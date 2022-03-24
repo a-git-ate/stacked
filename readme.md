@@ -1,1 +1,1 @@
-versuch eine fullstack web zusammen zu schustern
+versuch eine fullstack webapp zusammen zu schustern
